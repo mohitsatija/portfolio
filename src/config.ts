@@ -20,7 +20,7 @@ export const config = {
     },
     experiences: [
         {
-            position: "Full-Stack Project Lead",
+            position: "Full-Stack Project",
             company: "ProjectHub",
             period: "2026",
             location: "Jaipur, India",
@@ -34,7 +34,7 @@ export const config = {
             technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "REST APIs"]
         },
         {
-            position: "AI & Full-Stack Engineer",
+            position: "AI & Full-Stack Project",
             company: "Quizora AI",
             period: "2025 - 2026",
             location: "Jaipur, India",
@@ -48,7 +48,7 @@ export const config = {
             technologies: ["TypeScript", "React", "Node.js", "Redis", "WebSockets", "LangChain", "Groq LLM", "Zod"]
         },
         {
-            position: "Machine Learning Developer",
+            position: "Machine Learning Project",
             company: "Diabetes Prediction Model",
             period: "2024",
             location: "Jaipur, India",
