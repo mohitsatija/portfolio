@@ -108,7 +108,7 @@ export const config = {
             technologies: "React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, REST APIs",
             image: "/images/ProjectHub.png",
             description: "A full-stack project management platform with role-based authentication and authorization using JWT and bcrypt. Features project creation, task assignment, progress tracking, budget monitoring, and interactive dashboards.",
-            link: "https://github.com/mohitsatija"
+            link: "https://github.com/mohitsatija/Project-Management-System"
         },
         {
             id: 2,
@@ -117,7 +117,7 @@ export const config = {
             technologies: "TypeScript, React, Node.js, Redis, WebSockets, LangChain, Groq LLM, Gemini Embeddings, Zod",
             image: "/images/QuizoraAI.png",
             description: "An AI-powered assessment platform allowing users to generate and host interactive assessments from uploaded PDFs. Features custom RAG pipeline via LangChain, Gemini embeddings & Groq LLM, plus a native WebSocket multiplayer engine.",
-            link: "https://github.com/mohitsatija"
+            link: "https://github.com/mohitsatija/Quizora-ai"
         },
         {
             id: 3,
@@ -126,7 +126,7 @@ export const config = {
             technologies: "Python, Scikit-Learn, Pandas, NumPy, Data Preprocessing, Classification",
             image: "/images/DiabetesPrediction.png",
             description: "A machine learning classification model predicting diabetes likelihood using patient health data. Includes robust data preprocessing, exploratory data analysis, feature selection, and evaluation across accuracy, precision, recall, and F1-score.",
-            link: "https://github.com/mohitsatija"
+            link: "https://github.com/mohitsatija/Diabetes-Prediction-System"
         }
     ],
     certifications: [
