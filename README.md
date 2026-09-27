@@ -1,4 +1,4 @@
-# 🚀 Mohit Satija - Developer Portfolio (React + TypeScript + Three.js)
+# 🚀 Mohit Satija - Developer Portfolio (React + TypeScript +)
 
 A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
 
